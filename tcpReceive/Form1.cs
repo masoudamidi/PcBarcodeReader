@@ -82,6 +82,7 @@ namespace PcBarcodeReaderHOST
             tl.Stop();
 
             tStart();
+
         }
     }
 }
